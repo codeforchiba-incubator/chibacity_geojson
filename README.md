@@ -13,6 +13,8 @@
 
 国土数値情報の行政区域は６区レベルまでしかデータがないため、e-Statの国勢調査データに付随したshapeファイルを利用した。
 
+2015/07/23補足：[位置参照情報ダウンロードサービス](http://nlftp.mlit.go.jp/cgi-bin/isj/dls/_choose_method.cgi)のデータが使えるかも
+
 ### GeoJSOファイルの作成方法
 
 1. [e-Stat統計表検索（ダウンロード用）](http://e-stat.go.jp/SG2/eStatGIS/page/download.html)サイトで、「Step1:国勢調査」＞「平成22年度国勢調査（小地域）2010/10/01」を選択
